@@ -1,6 +1,6 @@
 # Telecom Customer Churn Analysis and Prediction
 
-[Detailed Report](https://docs.google.com/document/d/1Q1tTrccKLlXfMH7X5Nsc5r-Pa0bU7zBI/edit?usp=sharing&ouid=102993415101694725160&rtpof=true&sd=true)
+[Detailed Report](https://drive.google.com/file/d/1WfRBaEwONnw3pct98oyA2oqR48XOgUay/view?usp=sharing)
 
 ## Introduction
 

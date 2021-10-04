@@ -19,6 +19,7 @@ customers’ personal situations. From an organizational perspective, it is alwa
 
 ## Data Source
 The dataset was collected from Kaggle named as Telco Customer Churn dataset. It was an IBM issued dataset.
+
 Link: https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Content 

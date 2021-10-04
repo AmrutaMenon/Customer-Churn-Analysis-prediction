@@ -23,7 +23,11 @@ Link: https://www.kaggle.com/blastchar/telco-customer-churn
 Each row in the dataset represents a customer, while each column contains customer’s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). 
 
 ###Column names: 
-* CustomerID: Customer ID unique for each customer.  gender: Whether the customer is a male or a female.  SeniorCitizen: Whether the customer is a senior citizen or not (1, 0).
+* CustomerID: Customer ID unique for each customer.
+
+* gender: Whether the customer is a male or a female.
+
+* SeniorCitizen: Whether the customer is a senior citizen or not (1, 0).
 
 * Partner: Whether the customer has a partner or not (Yes, No). 
 
